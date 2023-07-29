@@ -1,9 +1,7 @@
-### Hi there 👋
-
-# Data_Eng_project-01
+<h1 align="center">Hi 👋, I'm priyanthan</h1>
 
 [![MasterHead](https://cdn.dribbble.com/users/37649/screenshots/14437038/media/36fd5a9eadaa84609d252dfa3dead711.gif)]
-<h1 align="center">Hi 👋, I'm priyanthan</h1>
+
 <h3 align="center">A passionate engineering student from srilanka</h3>
 <img align="right" alt="Coding" width="400" src="https://mobilemonitoringsolutions.com/wp-content/uploads/2018/09/mldepressiongif-300x179.gif">
 - 🌱 I’m currently learning **data engineering**
