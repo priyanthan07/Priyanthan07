@@ -4,9 +4,9 @@
 
 <h3 align="center">A passionate engineering student from srilanka</h3>
 <img align="right" alt="Coding" width="400" src="https://mobilemonitoringsolutions.com/wp-content/uploads/2018/09/mldepressiongif-300x179.gif">
-- 🌱 I’m currently learning **data analytics and engineering**
+- 🌱 I’m currently learning **Machine learning, data analytics and engineering**
 
-- 💬 Ask me about **python, machine learning, and data engineering**
+- 💬 Ask me about **python, machine learning, Deep learning, and data engineering**
 
 - 📫 How to reach me **govindarajpriyanthan@gmail.com**
 
